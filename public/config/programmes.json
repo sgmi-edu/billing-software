@@ -1,0 +1,42 @@
+[
+    {
+        "programme_name": "Special Coaching Evening",
+        "for_classes": "X",
+        "students_enrolled": [
+            {
+                "id": "1",
+                "student_name": "Agni Sarvaloka"
+            }
+        ]
+    },
+    {
+        "programme_name": "Xth Tution Physics",
+        "for_classes": "X",
+        "students_enrolled": [
+            {
+                "id": "1",
+                "student_name": "XIIth Tuitin Special Maths"
+            }
+        ]
+    },
+    {
+        "programme_name": "Special Morning Coaching 12th",
+        "for_classes": "X",
+        "students_enrolled": [
+            {
+                "id": "1",
+                "student_name": "Agni Sarvaloka"
+            }
+        ]
+    },
+    {
+        "programme_name": "II STD Tuition",
+        "for_classes": "X",
+        "students_enrolled": [
+            {
+                "id": "1",
+                "student_name": "Agni Sarvaloka"
+            }
+        ]
+    }
+]

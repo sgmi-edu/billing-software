@@ -1,0 +1,22 @@
+.wrapper {
+    display: grid;
+    background-color: rgb(244, 154, 35);
+    gap: 16px;
+    padding: 16px;
+}
+
+.card {
+    background-color: white;
+    padding: 16px;
+    max-width: 900px;
+}
+
+.tools {
+    display: grid;
+    grid-auto-flow: column;
+    background-color: rgb(236, 236, 236);
+    max-width: 900px;
+    gap: 16px;
+    padding: 16px 0px;
+    align-items: center;
+}
